@@ -19,7 +19,7 @@ Hello! I'm a 20 years old Brazilian computer science student, just three semeste
 
 I've been passionate about computers ever since I can remember, and I love to learn new things — I started playing around with C, assembly, some game dev, and Linux when I was in highschool. Lately I've been interested in machine learning, graphical programming, and data integration. My professional goal is to specialize in a field I love (it's very hard to pick just one) and help to build and better tools for people to work with. 
 
-As of now, I'm doing research on ontology based data access, using OWL and SPARQL to semantically query relational databases, and working on a related project. As soon as I have something to show for it, it'll be here :D
+As of now, I'm doing research on ontology based data access, using Ontop and SPARQL to semantically query relational databases, and working on a related project. As soon as I have something to show for it, it'll be here :D
 
 ### Languages and Tools
 - C/C++
