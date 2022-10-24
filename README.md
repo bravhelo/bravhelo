@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I'm a 20 years old Brazilian computer science student at UEM. My pronouns are **she/they**, and I speak Brazilian Portuguese and English. You can reach me on most social medias @bravhelo (though I share all the worst memes)
+Hello! I'm a 20 years old Brazilian computer science student at UEM. My pronouns are **she/they**, and I speak Brazilian Portuguese and English.
 
 I've been passionate about computers ever since I can remember, and I love to learn new things — I started playing around with C and Linux when I was in highschool. Lately I've been interested in artificial intelligence and data science. My professional goal is to specialize in a field I love (it's very hard to pick just one) and help to build and better tools for people to work with. 
 
